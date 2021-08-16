@@ -1,0 +1,3 @@
+Figure 3. The visualization of our Motifs binding activation map network.
+Each features mutiply its corresponding weights and add them together, the output is the sites with scores(high score means contributing much to binding and low score means little contributing to binding) 
+ 

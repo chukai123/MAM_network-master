@@ -1,0 +1,11 @@
+allele,seq_num,start,end,length,peptide,method,percentile_rank,ann_ic50,ann_rank,smm_ic50,smm_rank,comblib_sidney2008_score,comblib_sidney2008_rank,netmhcpan_ic50,netmhcpan_rank
+HLA-A*68:02,6,1,9,9,TIWAAMAGV,Consensus (ann/comblib_sidney2008/smm),0.5,4.75,0.2,33.31,0.5,0.000209,10,-,-
+HLA-A*68:02,1,1,9,9,YTYSGLPCV,Consensus (ann/comblib_sidney2008/smm),0.7,102.79,0.7,335.42,4,1.41e-05,0.7,-,-
+HLA-A*68:02,8,1,9,9,KVISYLAYV,Consensus (ann/comblib_sidney2008/smm),1.6,44.24,0.7,127.23,1.6,3.86e-05,2.1,-,-
+HLA-A*68:02,9,1,9,9,FVDDRPLPV,Consensus (ann/comblib_sidney2008/smm),1.7,563.24,1.3,298.94,3.6,3.05e-05,1.7,-,-
+HLA-A*68:02,3,1,9,9,SLAIGIIGV,Consensus (ann/comblib_sidney2008/smm),2.7,239.17,1.2,216.07,2.7,0.000145,7.2,-,-
+HLA-A*68:02,5,1,9,9,QLFWHTMFI,Consensus (ann/comblib_sidney2008/smm),2.8,57.75,0.7,223.66,2.8,0.000136,6.9,-,-
+HLA-A*68:02,2,1,9,9,FAISALAKA,Consensus (ann/comblib_sidney2008/smm),2.9,111.32,0.7,240.21,2.9,0.00038,17,-,-
+HLA-A*68:02,7,1,9,9,YVAKYLLAA,Consensus (ann/comblib_sidney2008/smm),3.5,356.33,1.3,290.80,3.5,0.000257,13,-,-
+HLA-A*68:02,4,1,9,9,EMPPHIMAI,Consensus (ann/comblib_sidney2008/smm),4.0,162.34,1.2,330.82,4,8.95e-05,4.7,-,-
+HLA-A*68:02,10,1,9,9,AQYVAIQAV,Consensus (ann/comblib_sidney2008/smm),8.6,11762.55,6.5,5762.22,26,0.000174,8.6,-,-

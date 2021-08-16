@@ -1,0 +1,2 @@
+Figure 2 is the pipeline of our peptide generation. Embedding step is to encode each amoid acid into a 15 dimension vector.  Prediction step is to predict the binding result and collect the feature as well as combinding weights.
+MAM step is to calculate the scores in  each sites. And voting means  average all the trained model results. Generating part is to mutate and  generate new peptide.
